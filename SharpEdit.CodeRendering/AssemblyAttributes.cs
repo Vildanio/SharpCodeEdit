@@ -1,0 +1,1 @@
+﻿global using IVisualTextDocument = SharpEdit.VisualRendering.IVisualDocument<SharpEdit.VisualRendering.IVisualText>;

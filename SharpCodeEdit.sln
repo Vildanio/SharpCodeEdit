@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEdit.CodeRendering", "SharpEdit.CodeRendering\SharpEdit.CodeRendering.csproj", "{6725FCAB-B265-4AE8-8D31-C4EADC3C61FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEdit.TextRendering", "..\SharpEdit\SharpEdit.TextRendering\SharpEdit.TextRendering.csproj", "{2BF846DD-9D2C-4814-814F-B4A4F113F9A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEdit.Text", "..\SharpEdit\SharpEdit.Text\SharpEdit.Text.csproj", "{F5E0FA70-565F-480F-9E0A-DD69A676A7FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEdit.TextEditing", "..\SharpEdit\SharpEdit.TextEditing\SharpEdit.TextEditing.csproj", "{F5F443E5-E896-4D05-9425-938F10DF6D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEdit.CodeEditing", "SharpEdit.CodeEditing\SharpEdit.CodeEditing.csproj", "{742F226B-BEB9-4FED-9C50-3D72F80823BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpEdit.LineText", "..\SharpEdit\SharpEdit.LineText\SharpEdit.LineText.csproj", "{352A0016-3B59-4092-8475-095624D91711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6725FCAB-B265-4AE8-8D31-C4EADC3C61FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6725FCAB-B265-4AE8-8D31-C4EADC3C61FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6725FCAB-B265-4AE8-8D31-C4EADC3C61FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6725FCAB-B265-4AE8-8D31-C4EADC3C61FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF846DD-9D2C-4814-814F-B4A4F113F9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF846DD-9D2C-4814-814F-B4A4F113F9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF846DD-9D2C-4814-814F-B4A4F113F9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF846DD-9D2C-4814-814F-B4A4F113F9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E0FA70-565F-480F-9E0A-DD69A676A7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E0FA70-565F-480F-9E0A-DD69A676A7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E0FA70-565F-480F-9E0A-DD69A676A7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E0FA70-565F-480F-9E0A-DD69A676A7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F443E5-E896-4D05-9425-938F10DF6D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F443E5-E896-4D05-9425-938F10DF6D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F443E5-E896-4D05-9425-938F10DF6D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F443E5-E896-4D05-9425-938F10DF6D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742F226B-BEB9-4FED-9C50-3D72F80823BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742F226B-BEB9-4FED-9C50-3D72F80823BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742F226B-BEB9-4FED-9C50-3D72F80823BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742F226B-BEB9-4FED-9C50-3D72F80823BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352A0016-3B59-4092-8475-095624D91711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A0016-3B59-4092-8475-095624D91711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A0016-3B59-4092-8475-095624D91711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A0016-3B59-4092-8475-095624D91711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C87159A-0A78-46A5-B592-20AD19C2279E}
+	EndGlobalSection
+EndGlobal

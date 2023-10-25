@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SharpEdit\SharpEdit.TextEditing\SharpEdit.TextEditing.csproj" />
+    <ProjectReference Include="..\..\SharpEdit\SharpEdit.Text\SharpEdit.Text.csproj" />
+    <ProjectReference Include="..\SharpEdit.CodeRendering\SharpEdit.CodeRendering.csproj" />
+  </ItemGroup>
+
+</Project>
